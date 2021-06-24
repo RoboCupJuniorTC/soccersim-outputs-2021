@@ -1,0 +1,26 @@
+{"datetime": "2021-05-30T20:03:24.095271Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T20:03:24.108379Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 7, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "ORKA Robotics", "team_name_blue": "RoboteamE5vos", "match_id": "qae_3_03", "halftime": 2}}
+{"datetime": "2021-05-30T20:03:27.003179Z", "matchtime": 7.5519999999958145, "event": "GOAL", "payload": {"team_name": "RoboteamE5vos", "score_yellow": 7, "score_blue": 1}}
+{"datetime": "2021-05-30T20:03:28.046299Z", "matchtime": 10.559999999994147, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:03:28.982438Z", "matchtime": 14.079999999992197, "event": "GOAL", "payload": {"team_name": "ORKA Robotics", "score_yellow": 8, "score_blue": 1}}
+{"datetime": "2021-05-30T20:03:29.956729Z", "matchtime": 17.08799999999053, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T20:03:47.143695Z", "matchtime": 67.13599999996279, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:03:55.567940Z", "matchtime": 88.44799999995138, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:04:04.353642Z", "matchtime": 111.23199999995899, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:04:19.049729Z", "matchtime": 146.75199999997085, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T20:04:21.318218Z", "matchtime": 152.06399999997262, "event": "GOAL", "payload": {"team_name": "ORKA Robotics", "score_yellow": 9, "score_blue": 1}}
+{"datetime": "2021-05-30T20:04:22.649846Z", "matchtime": 155.07199999997363, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T20:04:43.261870Z", "matchtime": 203.39199999998976, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:04:45.188958Z", "matchtime": 207.9999999999913, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:04:52.057855Z", "matchtime": 223.42399999999645, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T20:04:54.626980Z", "matchtime": 229.50399999999848, "event": "GOAL", "payload": {"team_name": "ORKA Robotics", "score_yellow": 10, "score_blue": 1}}
+{"datetime": "2021-05-30T20:04:55.953438Z", "matchtime": 232.5119999999995, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T20:05:20.336328Z", "matchtime": 288.70400000001825, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:05:53.216951Z", "matchtime": 364.8000000000344, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:06:03.323574Z", "matchtime": 388.9280000000317, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:06:43.556424Z", "matchtime": 483.32800000002135, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:06:55.679308Z", "matchtime": 512.5120000000181, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:07:14.072412Z", "matchtime": 555.9680000000155, "event": "GOAL", "payload": {"team_name": "ORKA Robotics", "score_yellow": 11, "score_blue": 1}}
+{"datetime": "2021-05-30T20:07:15.393135Z", "matchtime": 558.9760000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T20:07:32.393539Z", "matchtime": 598.4000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:07:33.104373Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 11, "score_blue": 1, "team_name_yellow": "ORKA Robotics", "team_name_blue": "RoboteamE5vos"}}

@@ -1,0 +1,50 @@
+{"datetime": "2021-05-30T17:24:40.004395Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:24:40.018813Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "RoboteamE5vos", "team_name_blue": "Speshari", "match_id": "qae_2_03", "halftime": 1}}
+{"datetime": "2021-05-30T17:24:47.598673Z", "matchtime": 31.615999999982478, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:24:51.052344Z", "matchtime": 46.71999999997411, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:24:56.504432Z", "matchtime": 66.68799999996304, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T17:24:56.656983Z", "matchtime": 66.9439999999629, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:25:03.021215Z", "matchtime": 85.24799999995275, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:25:11.446927Z", "matchtime": 109.31199999995835, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:25:26.212393Z", "matchtime": 149.75999999997185, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-05-30T17:25:27.503647Z", "matchtime": 152.76799999997286, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:25:29.933209Z", "matchtime": 158.52799999997478, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-05-30T17:25:31.310294Z", "matchtime": 161.5359999999758, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:25:33.410169Z", "matchtime": 166.59199999997747, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2021-05-30T17:25:34.735817Z", "matchtime": 169.59999999997848, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:25:42.862518Z", "matchtime": 188.09599999998466, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-30T17:25:51.094831Z", "matchtime": 207.74399999999122, "event": "GOAL", "payload": {"team_name": "RoboteamE5vos", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2021-05-30T17:25:52.419072Z", "matchtime": 210.75199999999222, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:25:54.444771Z", "matchtime": 215.61599999999385, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2021-05-30T17:25:55.818325Z", "matchtime": 218.62399999999485, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:26:00.737013Z", "matchtime": 230.52799999999883, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 5}}
+{"datetime": "2021-05-30T17:26:02.049609Z", "matchtime": 233.53599999999983, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:26:04.158778Z", "matchtime": 238.46400000000148, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 6}}
+{"datetime": "2021-05-30T17:26:05.491632Z", "matchtime": 241.47200000000248, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:26:07.703250Z", "matchtime": 246.78400000000426, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 7}}
+{"datetime": "2021-05-30T17:26:09.087123Z", "matchtime": 249.79200000000526, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:26:11.155501Z", "matchtime": 254.7200000000069, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 8}}
+{"datetime": "2021-05-30T17:26:12.554200Z", "matchtime": 257.7280000000079, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:26:20.431414Z", "matchtime": 275.77600000001394, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T17:26:22.687812Z", "matchtime": 280.89600000001565, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:26:27.306999Z", "matchtime": 291.07200000001905, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 9}}
+{"datetime": "2021-05-30T17:26:28.682215Z", "matchtime": 294.08000000002005, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:26:35.029383Z", "matchtime": 309.1840000000251, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:26:35.848047Z", "matchtime": 311.16800000002576, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:26:42.371034Z", "matchtime": 325.3120000000305, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:26:49.852717Z", "matchtime": 342.91200000003636, "event": "GOAL", "payload": {"team_name": "RoboteamE5vos", "score_yellow": 2, "score_blue": 9}}
+{"datetime": "2021-05-30T17:26:51.519918Z", "matchtime": 345.92000000003645, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:27:13.287905Z", "matchtime": 398.2080000000307, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 2, "score_blue": 10}}
+{"datetime": "2021-05-30T17:27:14.600515Z", "matchtime": 401.21600000003036, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:27:21.122751Z", "matchtime": 416.3200000000287, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:27:29.546521Z", "matchtime": 436.41600000002654, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:27:35.867056Z", "matchtime": 451.5200000000249, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:27:42.173141Z", "matchtime": 466.6240000000232, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:27:48.658149Z", "matchtime": 481.72800000002155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:27:55.471813Z", "matchtime": 497.1520000000198, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:28:23.420963Z", "matchtime": 560.1280000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:28:26.163265Z", "matchtime": 564.9920000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:28:28.654578Z", "matchtime": 570.7520000000156, "event": "GOAL", "payload": {"team_name": "RoboteamE5vos", "score_yellow": 3, "score_blue": 10}}
+{"datetime": "2021-05-30T17:28:29.982028Z", "matchtime": 573.7600000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:28:36.276472Z", "matchtime": 588.8640000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:28:40.868863Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 3, "score_blue": 10, "team_name_yellow": "RoboteamE5vos", "team_name_blue": "Speshari"}}

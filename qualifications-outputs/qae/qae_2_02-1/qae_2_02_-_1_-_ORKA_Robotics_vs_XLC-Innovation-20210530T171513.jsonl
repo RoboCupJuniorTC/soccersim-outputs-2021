@@ -1,0 +1,27 @@
+{"datetime": "2021-05-30T17:15:14.568984Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:15:14.579918Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "XLC-Innovation", "team_name_blue": "ORKA Robotics", "match_id": "qae_2_02", "halftime": 1}}
+{"datetime": "2021-05-30T17:15:20.858667Z", "matchtime": 16.9599999999906, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:15:27.886689Z", "matchtime": 35.0079999999806, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:15:33.655513Z", "matchtime": 51.903999999971234, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:15:43.853697Z", "matchtime": 80.06399999995563, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:15:59.547511Z", "matchtime": 126.07999999996395, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:16:06.489366Z", "matchtime": 145.79199999997053, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:16:14.602439Z", "matchtime": 164.8639999999769, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:16:25.811113Z", "matchtime": 188.8639999999849, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:17:00.571439Z", "matchtime": 266.17600000001073, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:17:18.763353Z", "matchtime": 303.8080000000233, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:17:37.511846Z", "matchtime": 342.59200000003625, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:17:49.146449Z", "matchtime": 365.44000000003433, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:17:55.648194Z", "matchtime": 380.7360000000326, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-05-30T17:17:57.074656Z", "matchtime": 383.7440000000323, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:18:04.092237Z", "matchtime": 398.2080000000307, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:18:16.374094Z", "matchtime": 423.23200000002794, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T17:18:17.091696Z", "matchtime": 424.44800000002783, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:18:18.790557Z", "matchtime": 427.6480000000275, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:18:29.411351Z", "matchtime": 448.7040000000252, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:18:51.019516Z", "matchtime": 494.1440000000201, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:19:07.239521Z", "matchtime": 530.0480000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:19:15.893580Z", "matchtime": 545.7280000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:19:31.651305Z", "matchtime": 577.6000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T17:19:33.249748Z", "matchtime": 580.6080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:19:41.359339Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 0, "team_name_yellow": "XLC-Innovation", "team_name_blue": "ORKA Robotics"}}

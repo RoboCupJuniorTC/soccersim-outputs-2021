@@ -1,0 +1,29 @@
+{"datetime": "2021-05-30T21:26:27.677432Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T21:26:27.690134Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 2, "score_blue": 1, "total_match_time": 600, "team_name_yellow": "ORKA Robotics", "team_name_blue": "Speshari", "match_id": "qae_4_02", "halftime": 2}}
+{"datetime": "2021-05-30T21:26:32.435302Z", "matchtime": 18.879999999989536, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:26:32.668153Z", "matchtime": 19.51999999998918, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T21:26:38.395654Z", "matchtime": 38.079999999978895, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:26:45.455124Z", "matchtime": 59.64799999996694, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:26:55.210971Z", "matchtime": 89.7279999999518, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:27:04.344886Z", "matchtime": 114.17599999995997, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:27:14.965804Z", "matchtime": 139.64799999996848, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:27:18.060174Z", "matchtime": 147.39199999997106, "event": "GOAL", "payload": {"team_name": "ORKA Robotics", "score_yellow": 3, "score_blue": 1}}
+{"datetime": "2021-05-30T21:27:19.374075Z", "matchtime": 150.39999999997207, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T21:27:31.116735Z", "matchtime": 176.5759999999808, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:27:40.304010Z", "matchtime": 197.5039999999878, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T21:27:40.469407Z", "matchtime": 197.8239999999879, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T21:27:42.330122Z", "matchtime": 201.15199999998902, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:27:53.587801Z", "matchtime": 226.8159999999976, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:27:55.495005Z", "matchtime": 231.23199999999906, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T21:28:10.763556Z", "matchtime": 264.06400000001, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:28:38.393216Z", "matchtime": 328.6400000000316, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:28:50.396991Z", "matchtime": 354.11200000003555, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:28:57.913999Z", "matchtime": 372.0960000000336, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:29:15.439757Z", "matchtime": 413.31200000002906, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:29:47.023322Z", "matchtime": 486.272000000021, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:29:57.692534Z", "matchtime": 510.72000000001833, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:30:07.804377Z", "matchtime": 534.2720000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-30T21:30:09.736544Z", "matchtime": 538.7520000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T21:30:12.971927Z", "matchtime": 546.0480000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:30:34.873944Z", "matchtime": 598.1440000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T21:30:35.576432Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 3, "score_blue": 1, "team_name_yellow": "ORKA Robotics", "team_name_blue": "Speshari"}}
