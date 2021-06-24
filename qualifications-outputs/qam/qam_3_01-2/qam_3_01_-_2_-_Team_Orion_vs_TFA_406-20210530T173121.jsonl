@@ -1,0 +1,81 @@
+{"datetime": "2021-05-30T17:31:22.349211Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:31:22.354949Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 20, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "TFA 406", "team_name_blue": "Team Orion", "match_id": "qam_3_01", "halftime": 2}}
+{"datetime": "2021-05-30T17:31:24.741510Z", "matchtime": 11.967999999993367, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 21, "score_blue": 0}}
+{"datetime": "2021-05-30T17:31:25.508119Z", "matchtime": 14.9759999999917, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:31:29.951790Z", "matchtime": 32.25599999998212, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:31:31.633058Z", "matchtime": 38.84799999997847, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-30T17:31:33.220297Z", "matchtime": 44.031999999975596, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:31:34.489278Z", "matchtime": 47.35999999997375, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:31:34.561445Z", "matchtime": 47.48799999997368, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:31:40.514582Z", "matchtime": 62.527999999965346, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:31:41.127758Z", "matchtime": 63.74399999996467, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 22, "score_blue": 0}}
+{"datetime": "2021-05-30T17:31:42.799959Z", "matchtime": 66.751999999963, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:31:49.007623Z", "matchtime": 81.85599999995463, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:31:51.122217Z", "matchtime": 86.9759999999518, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:31:54.004617Z", "matchtime": 93.56799999995309, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 22, "score_blue": 1}}
+{"datetime": "2021-05-30T17:31:55.286296Z", "matchtime": 96.57599999995409, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:31:57.061465Z", "matchtime": 100.86399999995552, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 23, "score_blue": 1}}
+{"datetime": "2021-05-30T17:31:58.263392Z", "matchtime": 103.87199999995653, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:32:01.695175Z", "matchtime": 112.06399999995926, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 24, "score_blue": 1}}
+{"datetime": "2021-05-30T17:32:02.982091Z", "matchtime": 115.07199999996027, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:32:09.207738Z", "matchtime": 130.1759999999653, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:32:12.555969Z", "matchtime": 137.6639999999678, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:32:15.075392Z", "matchtime": 143.55199999996978, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 25, "score_blue": 1}}
+{"datetime": "2021-05-30T17:32:16.287164Z", "matchtime": 146.55999999997078, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:32:24.063911Z", "matchtime": 161.40799999997574, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:32:31.356396Z", "matchtime": 179.32799999998173, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-30T17:32:31.983129Z", "matchtime": 180.79999999998222, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 26, "score_blue": 1}}
+{"datetime": "2021-05-30T17:32:33.257755Z", "matchtime": 183.80799999998322, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:32:40.741630Z", "matchtime": 201.7279999999892, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:32:42.469868Z", "matchtime": 205.75999999999055, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:32:46.978219Z", "matchtime": 216.83199999999425, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:32:47.364292Z", "matchtime": 217.79199999999457, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 26, "score_blue": 2}}
+{"datetime": "2021-05-30T17:32:48.627751Z", "matchtime": 220.79999999999558, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:32:59.913156Z", "matchtime": 244.73600000000357, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:33:00.303205Z", "matchtime": 245.63200000000387, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:33:01.107301Z", "matchtime": 247.5520000000045, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:33:01.267195Z", "matchtime": 247.93600000000464, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 27, "score_blue": 2}}
+{"datetime": "2021-05-30T17:33:02.557403Z", "matchtime": 250.94400000000564, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:33:09.905052Z", "matchtime": 266.49600000001084, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 28, "score_blue": 2}}
+{"datetime": "2021-05-30T17:33:11.341519Z", "matchtime": 269.50400000001184, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:33:22.898592Z", "matchtime": 297.5360000000212, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 29, "score_blue": 2}}
+{"datetime": "2021-05-30T17:33:24.177397Z", "matchtime": 300.5440000000222, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:33:30.576677Z", "matchtime": 315.64800000002725, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:33:34.910834Z", "matchtime": 322.17600000002943, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:33:38.493372Z", "matchtime": 330.7520000000323, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:33:44.524072Z", "matchtime": 345.8560000000365, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:33:45.208129Z", "matchtime": 347.4560000000363, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:33:46.811750Z", "matchtime": 351.48800000003587, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T17:33:47.038970Z", "matchtime": 352.0640000000358, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T17:33:50.257699Z", "matchtime": 360.0640000000349, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:33:51.255077Z", "matchtime": 362.5600000000346, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:33:58.683879Z", "matchtime": 379.1360000000328, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:34:00.626458Z", "matchtime": 382.2080000000325, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:34:01.712521Z", "matchtime": 384.6400000000322, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:34:03.197243Z", "matchtime": 388.28800000003184, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-30T17:34:05.595381Z", "matchtime": 394.24000000003116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:34:07.925617Z", "matchtime": 399.74400000003055, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:34:13.461144Z", "matchtime": 412.22400000002915, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:34:19.633839Z", "matchtime": 423.9360000000279, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:34:22.045932Z", "matchtime": 429.69600000002725, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T17:34:23.456558Z", "matchtime": 433.21600000002684, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:34:26.811433Z", "matchtime": 441.536000000026, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 30, "score_blue": 2}}
+{"datetime": "2021-05-30T17:34:28.068221Z", "matchtime": 444.5440000000256, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:34:35.514015Z", "matchtime": 460.4800000000239, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:34:39.881753Z", "matchtime": 470.72000000002276, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 31, "score_blue": 2}}
+{"datetime": "2021-05-30T17:34:41.142707Z", "matchtime": 473.7280000000224, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:34:45.091539Z", "matchtime": 483.3920000000213, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 32, "score_blue": 2}}
+{"datetime": "2021-05-30T17:34:46.368201Z", "matchtime": 486.400000000021, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:34:49.703107Z", "matchtime": 494.6560000000201, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 33, "score_blue": 2}}
+{"datetime": "2021-05-30T17:34:50.973287Z", "matchtime": 497.66400000001977, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:34:59.297863Z", "matchtime": 514.9440000000179, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:35:05.423261Z", "matchtime": 530.0480000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:35:05.809719Z", "matchtime": 530.9440000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T17:35:11.531858Z", "matchtime": 545.1520000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T17:35:15.180698Z", "matchtime": 554.0480000000156, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 33, "score_blue": 3}}
+{"datetime": "2021-05-30T17:35:16.429289Z", "matchtime": 557.0560000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T17:35:20.510071Z", "matchtime": 567.2320000000155, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 34, "score_blue": 3}}
+{"datetime": "2021-05-30T17:35:21.775589Z", "matchtime": 570.2400000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:35:25.625513Z", "matchtime": 579.5840000000156, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 35, "score_blue": 3}}
+{"datetime": "2021-05-30T17:35:27.061499Z", "matchtime": 582.5920000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T17:35:34.100520Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 35, "score_blue": 3, "team_name_yellow": "TFA 406", "team_name_blue": "Team Orion"}}

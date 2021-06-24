@@ -1,0 +1,117 @@
+{"datetime": "2021-05-30T20:47:38.413894Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:47:38.419040Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Team Alpha", "team_name_blue": "TFA 406", "match_id": "qam_7_01", "halftime": 1}}
+{"datetime": "2021-05-30T20:47:39.906480Z", "matchtime": 8.575999999995247, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-05-30T20:47:40.513557Z", "matchtime": 11.58399999999358, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:47:43.000396Z", "matchtime": 22.271999999987656, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-05-30T20:47:43.783718Z", "matchtime": 25.27999999998599, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:47:48.310765Z", "matchtime": 40.38399999997762, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:47:48.311097Z", "matchtime": 40.38399999997762, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:47:48.311286Z", "matchtime": 40.38399999997762, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:47:54.074212Z", "matchtime": 55.48799999996925, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:47:54.074520Z", "matchtime": 55.48799999996925, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:47:54.074688Z", "matchtime": 55.48799999996925, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:00.093288Z", "matchtime": 70.59199999996088, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:00.093638Z", "matchtime": 70.59199999996088, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:00.093821Z", "matchtime": 70.59199999996088, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:02.356000Z", "matchtime": 76.22399999995775, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:48:06.101269Z", "matchtime": 85.6959999999525, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:06.101592Z", "matchtime": 85.6959999999525, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:06.101763Z", "matchtime": 85.6959999999525, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:12.142841Z", "matchtime": 100.7999999999555, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:12.143154Z", "matchtime": 100.7999999999555, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:12.143332Z", "matchtime": 100.7999999999555, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:18.172019Z", "matchtime": 115.90399999996055, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:18.172349Z", "matchtime": 115.90399999996055, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:18.172523Z", "matchtime": 115.90399999996055, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:24.157294Z", "matchtime": 131.0079999999656, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:24.157694Z", "matchtime": 131.0079999999656, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:24.157865Z", "matchtime": 131.0079999999656, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:30.145567Z", "matchtime": 146.11199999997064, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:30.145887Z", "matchtime": 146.11199999997064, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:30.146059Z", "matchtime": 146.11199999997064, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:33.855464Z", "matchtime": 155.45599999997376, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T20:48:36.773292Z", "matchtime": 161.21599999997568, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:36.773606Z", "matchtime": 161.21599999997568, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:36.773772Z", "matchtime": 161.21599999997568, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:40.982716Z", "matchtime": 171.90399999997925, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2021-05-30T20:48:42.227130Z", "matchtime": 174.91199999998025, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:48:48.262847Z", "matchtime": 190.0159999999853, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:48.263162Z", "matchtime": 190.0159999999853, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:48.263339Z", "matchtime": 190.0159999999853, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:48:54.845090Z", "matchtime": 205.11999999999034, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:48:54.845436Z", "matchtime": 205.11999999999034, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:48:54.845617Z", "matchtime": 205.11999999999034, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:00.827838Z", "matchtime": 220.22399999999539, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:00.828148Z", "matchtime": 220.22399999999539, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:00.828318Z", "matchtime": 220.22399999999539, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:06.843077Z", "matchtime": 235.32800000000043, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:06.843385Z", "matchtime": 235.32800000000043, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:06.843553Z", "matchtime": 235.32800000000043, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:08.520384Z", "matchtime": 239.48800000000182, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T20:49:12.857655Z", "matchtime": 250.43200000000547, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:12.857989Z", "matchtime": 250.43200000000547, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:12.858165Z", "matchtime": 250.43200000000547, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:18.823907Z", "matchtime": 265.5360000000105, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:18.824208Z", "matchtime": 265.5360000000105, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:18.824370Z", "matchtime": 265.5360000000105, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:24.823273Z", "matchtime": 280.64000000001556, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:24.823582Z", "matchtime": 280.64000000001556, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:24.823755Z", "matchtime": 280.64000000001556, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:30.841165Z", "matchtime": 295.7440000000206, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:30.841512Z", "matchtime": 295.7440000000206, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:30.841699Z", "matchtime": 295.7440000000206, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:33.804700Z", "matchtime": 303.2320000000231, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2021-05-30T20:49:34.981920Z", "matchtime": 306.2400000000241, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:49:40.993848Z", "matchtime": 321.34400000002915, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:40.994157Z", "matchtime": 321.34400000002915, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:40.994329Z", "matchtime": 321.34400000002915, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:47.092967Z", "matchtime": 336.4480000000342, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:47.093401Z", "matchtime": 336.4480000000342, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:47.093719Z", "matchtime": 336.4480000000342, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:49:51.503700Z", "matchtime": 347.5200000000363, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2021-05-30T20:49:52.679713Z", "matchtime": 350.52800000003595, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:49:58.721705Z", "matchtime": 365.6320000000343, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:49:58.722018Z", "matchtime": 365.6320000000343, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:49:58.722195Z", "matchtime": 365.6320000000343, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:50:00.613951Z", "matchtime": 370.3680000000338, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2021-05-30T20:50:01.791976Z", "matchtime": 373.37600000003346, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:50:07.838109Z", "matchtime": 388.4800000000318, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:50:07.838411Z", "matchtime": 388.4800000000318, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:50:07.838593Z", "matchtime": 388.4800000000318, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:50:11.929767Z", "matchtime": 398.84800000003065, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 7}}
+{"datetime": "2021-05-30T20:50:13.159329Z", "matchtime": 401.85600000003035, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:50:17.445885Z", "matchtime": 412.67200000002913, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 8}}
+{"datetime": "2021-05-30T20:50:18.680482Z", "matchtime": 415.6800000000288, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:50:22.367227Z", "matchtime": 424.8960000000278, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 9}}
+{"datetime": "2021-05-30T20:50:23.643086Z", "matchtime": 427.90400000002745, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:50:29.901574Z", "matchtime": 443.0080000000258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:50:29.901899Z", "matchtime": 443.0080000000258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:50:29.902072Z", "matchtime": 443.0080000000258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:50:33.821711Z", "matchtime": 452.80000000002474, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 10}}
+{"datetime": "2021-05-30T20:50:35.001948Z", "matchtime": 455.8080000000244, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:50:39.422984Z", "matchtime": 466.8800000000232, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 11}}
+{"datetime": "2021-05-30T20:50:40.657946Z", "matchtime": 469.8880000000228, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:50:46.611750Z", "matchtime": 484.99200000002116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:50:46.612059Z", "matchtime": 484.99200000002116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:50:46.612229Z", "matchtime": 484.99200000002116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:50:51.417921Z", "matchtime": 497.08800000001986, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 12}}
+{"datetime": "2021-05-30T20:50:52.650452Z", "matchtime": 500.0960000000195, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:50:56.153308Z", "matchtime": 508.86400000001856, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 13}}
+{"datetime": "2021-05-30T20:50:57.334330Z", "matchtime": 511.8720000000182, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:51:02.119132Z", "matchtime": 523.8400000000169, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 14}}
+{"datetime": "2021-05-30T20:51:03.290077Z", "matchtime": 526.8480000000166, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:51:07.222335Z", "matchtime": 536.7040000000155, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 15}}
+{"datetime": "2021-05-30T20:51:08.384584Z", "matchtime": 539.7120000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:51:11.952098Z", "matchtime": 548.6720000000156, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 16}}
+{"datetime": "2021-05-30T20:51:13.185916Z", "matchtime": 551.6800000000155, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:51:19.178175Z", "matchtime": 566.7840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:51:19.178578Z", "matchtime": 566.7840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:51:19.178885Z", "matchtime": 566.7840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:51:20.009614Z", "matchtime": 568.8960000000155, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 17}}
+{"datetime": "2021-05-30T20:51:21.234162Z", "matchtime": 571.9040000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:51:27.303748Z", "matchtime": 587.0080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T20:51:27.304056Z", "matchtime": 587.0080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T20:51:27.304228Z", "matchtime": 587.0080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T20:51:28.972008Z", "matchtime": 591.2960000000156, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 0, "score_blue": 18}}
+{"datetime": "2021-05-30T20:51:30.204622Z", "matchtime": 594.3040000000155, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T20:51:32.493906Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 18, "team_name_yellow": "Team Alpha", "team_name_blue": "TFA 406"}}

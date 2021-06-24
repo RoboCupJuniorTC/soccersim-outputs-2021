@@ -1,0 +1,71 @@
+{"datetime": "2021-05-30T19:47:39.791016Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:47:39.796539Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 9, "score_blue": 8, "total_match_time": 600, "team_name_yellow": "RBL UTCAM", "team_name_blue": "Team Orion", "match_id": "qam_5_02", "halftime": 2}}
+{"datetime": "2021-05-30T19:47:41.070609Z", "matchtime": 7.167999999996027, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 9, "score_blue": 9}}
+{"datetime": "2021-05-30T19:47:41.753793Z", "matchtime": 10.17599999999436, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T19:47:46.507315Z", "matchtime": 28.607999999984145, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:47:46.517762Z", "matchtime": 28.735999999984074, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T19:47:46.905107Z", "matchtime": 29.82399999998347, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T19:47:51.574540Z", "matchtime": 44.47999999997535, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 9, "score_blue": 10}}
+{"datetime": "2021-05-30T19:47:52.661873Z", "matchtime": 47.48799999997368, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T19:47:54.418355Z", "matchtime": 51.903999999971234, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 10, "score_blue": 10}}
+{"datetime": "2021-05-30T19:47:55.685544Z", "matchtime": 54.91199999996957, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:48:11.527504Z", "matchtime": 93.63199999995311, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-30T19:48:11.827396Z", "matchtime": 94.2079999999533, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T19:48:15.179530Z", "matchtime": 102.46399999995606, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 11, "score_blue": 10}}
+{"datetime": "2021-05-30T19:48:16.383007Z", "matchtime": 105.47199999995706, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:48:22.533304Z", "matchtime": 120.57599999996211, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:48:28.666284Z", "matchtime": 135.67999999996715, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:48:29.988279Z", "matchtime": 138.94399999996824, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 11, "score_blue": 11}}
+{"datetime": "2021-05-30T19:48:31.251717Z", "matchtime": 141.95199999996925, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T19:48:38.786026Z", "matchtime": 160.7039999999755, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:48:42.198457Z", "matchtime": 169.15199999997833, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 11, "score_blue": 12}}
+{"datetime": "2021-05-30T19:48:43.454814Z", "matchtime": 172.15999999997933, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T19:49:00.466378Z", "matchtime": 214.33599999999342, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:49:05.092845Z", "matchtime": 225.79199999999724, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 11, "score_blue": 13}}
+{"datetime": "2021-05-30T19:49:06.356485Z", "matchtime": 228.79999999999825, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T19:49:11.838668Z", "matchtime": 242.49600000000282, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 11, "score_blue": 14}}
+{"datetime": "2021-05-30T19:49:13.098919Z", "matchtime": 245.50400000000383, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T19:49:20.612019Z", "matchtime": 264.2560000000101, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:49:24.416540Z", "matchtime": 273.66400000001323, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 12, "score_blue": 14}}
+{"datetime": "2021-05-30T19:49:25.691280Z", "matchtime": 276.67200000001424, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:49:32.156860Z", "matchtime": 291.7760000000193, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:49:34.271970Z", "matchtime": 296.960000000021, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T19:49:41.372424Z", "matchtime": 314.17600000002676, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T19:49:42.089822Z", "matchtime": 316.0320000000274, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:49:42.324358Z", "matchtime": 316.6080000000276, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T19:49:48.631630Z", "matchtime": 331.77600000003264, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T19:49:49.180755Z", "matchtime": 333.1200000000331, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:49:50.200455Z", "matchtime": 335.5520000000339, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 13, "score_blue": 14}}
+{"datetime": "2021-05-30T19:49:51.408941Z", "matchtime": 338.5600000000349, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:49:59.043082Z", "matchtime": 357.5040000000352, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T19:49:59.731176Z", "matchtime": 359.168000000035, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:50:03.767425Z", "matchtime": 369.2160000000339, "event": "GOAL", "payload": {"team_name": "Team Orion", "score_yellow": 13, "score_blue": 15}}
+{"datetime": "2021-05-30T19:50:05.040896Z", "matchtime": 372.2240000000336, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-30T19:50:06.836210Z", "matchtime": 376.51200000003314, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 14, "score_blue": 15}}
+{"datetime": "2021-05-30T19:50:08.111595Z", "matchtime": 379.5200000000328, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:50:14.200655Z", "matchtime": 394.6240000000311, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T19:50:21.263732Z", "matchtime": 412.0960000000292, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T19:50:26.092571Z", "matchtime": 423.8720000000279, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-30T19:50:26.092919Z", "matchtime": 423.8720000000279, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T19:50:27.414620Z", "matchtime": 427.20000000002756, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T19:50:32.681223Z", "matchtime": 440.00000000002615, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-30T19:50:34.096851Z", "matchtime": 443.58400000002575, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-30T19:50:34.554083Z", "matchtime": 444.6720000000256, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-30T19:50:34.638394Z", "matchtime": 444.9280000000256, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T19:50:41.112980Z", "matchtime": 460.8640000000238, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 15, "score_blue": 15}}
+{"datetime": "2021-05-30T19:50:42.332848Z", "matchtime": 463.8720000000235, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:50:50.850713Z", "matchtime": 484.92800000002114, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-30T19:50:53.949703Z", "matchtime": 492.6080000000203, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:51:00.073056Z", "matchtime": 507.71200000001863, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:51:03.535995Z", "matchtime": 513.728000000018, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T19:51:07.915627Z", "matchtime": 524.4160000000168, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:51:09.814364Z", "matchtime": 529.2160000000163, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-30T19:51:13.880684Z", "matchtime": 539.5200000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:51:20.552697Z", "matchtime": 556.0960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-30T19:51:24.581469Z", "matchtime": 566.1440000000156, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 16, "score_blue": 15}}
+{"datetime": "2021-05-30T19:51:25.844315Z", "matchtime": 569.1520000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:51:28.732920Z", "matchtime": 576.3840000000156, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 17, "score_blue": 15}}
+{"datetime": "2021-05-30T19:51:30.005661Z", "matchtime": 579.3920000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:51:32.408236Z", "matchtime": 585.2160000000156, "event": "GOAL", "payload": {"team_name": "RBL UTCAM", "score_yellow": 18, "score_blue": 15}}
+{"datetime": "2021-05-30T19:51:33.670131Z", "matchtime": 588.2240000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-30T19:51:38.559441Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 18, "score_blue": 15, "team_name_yellow": "RBL UTCAM", "team_name_blue": "Team Orion"}}
