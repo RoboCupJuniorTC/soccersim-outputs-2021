@@ -1,0 +1,31 @@
+{"datetime": "2021-05-31T08:53:05.830913Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T08:53:05.845997Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 8, "score_blue": 2, "total_match_time": 600, "team_name_yellow": "RX", "team_name_blue": "musou japan", "match_id": "qap_3_02", "halftime": 2}}
+{"datetime": "2021-05-31T08:53:21.752281Z", "matchtime": 22.207999999987692, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T08:53:22.268816Z", "matchtime": 22.847999999987337, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T08:53:22.348398Z", "matchtime": 22.9119999999873, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-31T08:54:01.458915Z", "matchtime": 75.9679999999579, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T08:54:06.397879Z", "matchtime": 80.63999999995531, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T08:54:13.204533Z", "matchtime": 89.98399999995189, "event": "GOAL", "payload": {"team_name": "RX", "score_yellow": 9, "score_blue": 2}}
+{"datetime": "2021-05-31T08:54:15.498675Z", "matchtime": 92.9919999999529, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T08:54:30.803739Z", "matchtime": 111.5519999999591, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T08:54:33.382464Z", "matchtime": 114.94399999996023, "event": "GOAL", "payload": {"team_name": "RX", "score_yellow": 10, "score_blue": 2}}
+{"datetime": "2021-05-31T08:54:35.750932Z", "matchtime": 117.95199999996123, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T08:54:45.376303Z", "matchtime": 129.59999999996512, "event": "GOAL", "payload": {"team_name": "RX", "score_yellow": 11, "score_blue": 2}}
+{"datetime": "2021-05-31T08:54:48.023994Z", "matchtime": 132.60799999996613, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T08:56:18.526738Z", "matchtime": 236.28800000000075, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T08:56:30.442093Z", "matchtime": 250.36800000000545, "event": "GOAL", "payload": {"team_name": "RX", "score_yellow": 12, "score_blue": 2}}
+{"datetime": "2021-05-31T08:56:32.835874Z", "matchtime": 253.37600000000646, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T08:56:58.298817Z", "matchtime": 286.5280000000175, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T08:56:58.303511Z", "matchtime": 286.5280000000175, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T08:57:00.092830Z", "matchtime": 288.7680000000183, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-31T08:57:29.609670Z", "matchtime": 326.848000000031, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T08:57:46.756880Z", "matchtime": 347.32800000003635, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T08:57:50.862494Z", "matchtime": 352.70400000003576, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T08:58:06.406785Z", "matchtime": 372.7360000000335, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T08:58:48.225261Z", "matchtime": 419.64800000002833, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T08:59:23.686208Z", "matchtime": 457.98400000002414, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T08:59:52.784726Z", "matchtime": 489.28000000002066, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T09:01:07.917382Z", "matchtime": 576.7680000000156, "event": "GOAL", "payload": {"team_name": "RX", "score_yellow": 13, "score_blue": 2}}
+{"datetime": "2021-05-31T09:01:10.397888Z", "matchtime": 579.7760000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T09:01:26.795500Z", "matchtime": 599.4880000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-31T09:01:27.161856Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 13, "score_blue": 2, "team_name_yellow": "RX", "team_name_blue": "musou japan"}}

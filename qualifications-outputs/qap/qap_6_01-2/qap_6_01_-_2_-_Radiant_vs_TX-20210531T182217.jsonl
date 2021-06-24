@@ -1,0 +1,133 @@
+{"datetime": "2021-05-31T18:22:19.288428Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T18:22:19.309179Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 10, "score_blue": 5, "total_match_time": 600, "team_name_yellow": "TX", "team_name_blue": "Radiant", "match_id": "qap_6_01", "halftime": 2}}
+{"datetime": "2021-05-31T18:22:30.284047Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:22:30.289243Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:22:30.297103Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:22:32.635676Z", "matchtime": 18.047999999989997, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 10, "score_blue": 6}}
+{"datetime": "2021-05-31T18:22:35.002941Z", "matchtime": 21.05599999998833, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T18:22:46.808261Z", "matchtime": 36.15999999997996, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:22:46.813603Z", "matchtime": 36.15999999997996, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:22:46.817714Z", "matchtime": 36.15999999997996, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:22:46.822722Z", "matchtime": 36.15999999997996, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:22:59.284089Z", "matchtime": 51.26399999997159, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:22:59.289404Z", "matchtime": 51.26399999997159, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:22:59.295039Z", "matchtime": 51.26399999997159, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:23:09.404739Z", "matchtime": 63.935999999964565, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 11, "score_blue": 6}}
+{"datetime": "2021-05-31T18:23:11.692639Z", "matchtime": 66.9439999999629, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T18:23:23.368812Z", "matchtime": 82.04799999995453, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:23:23.374709Z", "matchtime": 82.04799999995453, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:23:23.379778Z", "matchtime": 82.04799999995453, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:23:25.394544Z", "matchtime": 84.67199999995307, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T18:23:29.537285Z", "matchtime": 90.04799999995191, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-31T18:23:33.808116Z", "matchtime": 94.7839999999535, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T18:23:35.604684Z", "matchtime": 97.15199999995428, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:23:35.610876Z", "matchtime": 97.15199999995428, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:23:35.615738Z", "matchtime": 97.15199999995428, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:23:47.428243Z", "matchtime": 112.25599999995933, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:23:47.433160Z", "matchtime": 112.25599999995933, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:23:47.438734Z", "matchtime": 112.25599999995933, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:23:58.880311Z", "matchtime": 127.35999999996437, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:23:58.885486Z", "matchtime": 127.35999999996437, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:23:58.890399Z", "matchtime": 127.35999999996437, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:24:10.421196Z", "matchtime": 142.46399999996942, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:24:10.425975Z", "matchtime": 142.46399999996942, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:24:10.431251Z", "matchtime": 142.46399999996942, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:24:20.364862Z", "matchtime": 154.49599999997344, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 11, "score_blue": 7}}
+{"datetime": "2021-05-31T18:24:22.630536Z", "matchtime": 157.50399999997444, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T18:24:30.881776Z", "matchtime": 167.74399999997786, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 12, "score_blue": 7}}
+{"datetime": "2021-05-31T18:24:33.306891Z", "matchtime": 170.75199999997886, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T18:24:44.924123Z", "matchtime": 185.8559999999839, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:24:44.928961Z", "matchtime": 185.8559999999839, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:24:44.934232Z", "matchtime": 185.8559999999839, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:24:56.402034Z", "matchtime": 200.95999999998895, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:24:56.407497Z", "matchtime": 200.95999999998895, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:24:56.412776Z", "matchtime": 200.95999999998895, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:25:08.738609Z", "matchtime": 216.063999999994, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:25:08.743344Z", "matchtime": 216.063999999994, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:25:08.749320Z", "matchtime": 216.063999999994, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:25:21.673343Z", "matchtime": 231.16799999999904, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:25:21.678572Z", "matchtime": 231.16799999999904, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:25:21.683324Z", "matchtime": 231.16799999999904, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:25:34.706068Z", "matchtime": 246.27200000000408, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:25:34.711186Z", "matchtime": 246.27200000000408, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:25:34.716000Z", "matchtime": 246.27200000000408, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:25:47.532033Z", "matchtime": 261.3760000000091, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:25:47.544860Z", "matchtime": 261.3760000000091, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:25:47.549333Z", "matchtime": 261.3760000000091, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:26:01.309030Z", "matchtime": 276.4800000000142, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:26:01.314223Z", "matchtime": 276.4800000000142, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:26:01.319109Z", "matchtime": 276.4800000000142, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:26:14.513778Z", "matchtime": 291.5840000000192, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:26:14.519215Z", "matchtime": 291.5840000000192, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:26:14.523918Z", "matchtime": 291.5840000000192, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:26:17.287808Z", "matchtime": 294.5920000000202, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T18:26:23.056843Z", "matchtime": 301.24800000002244, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:26:27.651390Z", "matchtime": 306.68800000002426, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:26:27.656214Z", "matchtime": 306.68800000002426, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:26:27.660958Z", "matchtime": 306.68800000002426, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:26:40.976250Z", "matchtime": 321.7920000000293, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:26:40.982019Z", "matchtime": 321.7920000000293, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:26:40.986935Z", "matchtime": 321.7920000000293, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:26:41.343842Z", "matchtime": 322.17600000002943, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:26:54.098372Z", "matchtime": 336.89600000003435, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:26:54.105596Z", "matchtime": 336.89600000003435, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:26:54.110934Z", "matchtime": 336.89600000003435, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:26:54.456880Z", "matchtime": 337.2800000000345, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:27:07.500864Z", "matchtime": 352.0000000000358, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:27:07.505612Z", "matchtime": 352.0000000000358, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:27:07.510712Z", "matchtime": 352.0000000000358, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:27:07.914904Z", "matchtime": 352.38400000003577, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:27:21.105902Z", "matchtime": 367.10400000003415, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:27:21.111123Z", "matchtime": 367.10400000003415, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:27:21.117385Z", "matchtime": 367.10400000003415, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:27:21.457327Z", "matchtime": 367.4880000000341, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:27:25.356274Z", "matchtime": 371.9680000000336, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T18:27:34.151259Z", "matchtime": 382.2080000000325, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:27:34.159092Z", "matchtime": 382.2080000000325, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:27:34.164190Z", "matchtime": 382.2080000000325, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:27:42.543311Z", "matchtime": 391.87200000003145, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 13, "score_blue": 7}}
+{"datetime": "2021-05-31T18:27:45.239224Z", "matchtime": 394.8800000000311, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T18:27:58.378053Z", "matchtime": 409.9840000000294, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:27:58.382998Z", "matchtime": 409.9840000000294, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:27:58.387722Z", "matchtime": 409.9840000000294, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:28:02.693328Z", "matchtime": 414.9120000000289, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T18:28:11.506918Z", "matchtime": 425.08800000002776, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:28:11.512316Z", "matchtime": 425.08800000002776, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:28:11.518562Z", "matchtime": 425.08800000002776, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:28:13.930620Z", "matchtime": 427.9680000000275, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:28:23.069304Z", "matchtime": 440.1920000000261, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:28:23.074069Z", "matchtime": 440.1920000000261, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:28:23.078896Z", "matchtime": 440.1920000000261, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:28:28.114198Z", "matchtime": 446.84800000002537, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:28:29.684014Z", "matchtime": 448.89600000002514, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 13, "score_blue": 8}}
+{"datetime": "2021-05-31T18:28:31.890649Z", "matchtime": 451.9040000000248, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T18:28:43.391897Z", "matchtime": 467.0080000000231, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:28:43.397157Z", "matchtime": 467.0080000000231, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:28:43.401688Z", "matchtime": 467.0080000000231, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:28:49.951682Z", "matchtime": 475.7760000000222, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:28:54.721955Z", "matchtime": 482.11200000002145, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:28:54.726802Z", "matchtime": 482.11200000002145, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:28:54.731887Z", "matchtime": 482.11200000002145, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:28:55.444063Z", "matchtime": 483.0080000000214, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 14, "score_blue": 8}}
+{"datetime": "2021-05-31T18:28:57.858749Z", "matchtime": 486.01600000002105, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T18:29:09.853182Z", "matchtime": 501.1200000000194, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:29:09.861724Z", "matchtime": 501.1200000000194, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:29:09.868365Z", "matchtime": 501.1200000000194, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:29:18.855040Z", "matchtime": 513.088000000018, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 14, "score_blue": 9}}
+{"datetime": "2021-05-31T18:29:21.150209Z", "matchtime": 516.0960000000177, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T18:29:32.834420Z", "matchtime": 531.2000000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:29:32.840202Z", "matchtime": 531.2000000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:29:32.848584Z", "matchtime": 531.2000000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:29:43.257728Z", "matchtime": 544.3840000000156, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 14, "score_blue": 10}}
+{"datetime": "2021-05-31T18:29:45.664062Z", "matchtime": 547.3920000000155, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T18:29:57.311029Z", "matchtime": 562.4960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:29:57.316467Z", "matchtime": 562.4960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:29:57.320847Z", "matchtime": 562.4960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:29:57.326061Z", "matchtime": 562.4960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:30:10.035100Z", "matchtime": 577.6000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-05-31T18:30:10.040740Z", "matchtime": 577.6000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-05-31T18:30:10.045942Z", "matchtime": 577.6000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-05-31T18:30:10.051116Z", "matchtime": 577.6000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T18:30:13.746040Z", "matchtime": 582.4640000000156, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 15, "score_blue": 10}}
+{"datetime": "2021-05-31T18:30:16.080820Z", "matchtime": 585.4720000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T18:30:27.261282Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 15, "score_blue": 10, "team_name_yellow": "TX", "team_name_blue": "Radiant"}}

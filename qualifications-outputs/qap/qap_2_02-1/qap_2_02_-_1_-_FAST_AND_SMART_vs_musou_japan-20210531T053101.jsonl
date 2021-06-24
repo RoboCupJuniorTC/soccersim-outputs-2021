@@ -1,0 +1,34 @@
+{"datetime": "2021-05-31T05:31:02.695159Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:31:02.709566Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "musou japan", "team_name_blue": "FAST AND SMART\r", "match_id": "qap_2_02", "halftime": 1}}
+{"datetime": "2021-05-31T05:31:32.102225Z", "matchtime": 39.99999999997783, "event": "GOAL", "payload": {"team_name": "FAST AND SMART\r", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-05-31T05:31:34.325810Z", "matchtime": 43.007999999976164, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:31:37.374023Z", "matchtime": 47.16799999997386, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-05-31T05:31:39.656472Z", "matchtime": 50.17599999997219, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T05:32:00.489430Z", "matchtime": 77.7599999999569, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T05:33:16.485728Z", "matchtime": 181.18399999998235, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T05:33:19.995666Z", "matchtime": 186.04799999998397, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-05-31T05:33:20.322524Z", "matchtime": 186.4319999999841, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T05:33:21.017438Z", "matchtime": 187.3279999999844, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-05-31T05:34:04.026692Z", "matchtime": 243.84000000000327, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T05:34:04.967154Z", "matchtime": 245.05600000000368, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T05:34:28.739875Z", "matchtime": 275.5840000000139, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-05-31T05:34:30.289359Z", "matchtime": 277.5040000000145, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T05:34:34.111677Z", "matchtime": 282.94400000001633, "event": "GOAL", "payload": {"team_name": "FAST AND SMART\r", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-05-31T05:34:36.387760Z", "matchtime": 285.95200000001734, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:35:04.328213Z", "matchtime": 320.0000000000287, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T05:35:17.686701Z", "matchtime": 337.4080000000345, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 2, "score_blue": 2}}
+{"datetime": "2021-05-31T05:35:20.139999Z", "matchtime": 340.4160000000355, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-05-31T05:35:23.419198Z", "matchtime": 344.51200000003666, "event": "GOAL", "payload": {"team_name": "FAST AND SMART\r", "score_yellow": 2, "score_blue": 3}}
+{"datetime": "2021-05-31T05:35:25.700694Z", "matchtime": 347.5200000000363, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:35:39.301377Z", "matchtime": 364.48000000003447, "event": "GOAL", "payload": {"team_name": "FAST AND SMART\r", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2021-05-31T05:35:42.284730Z", "matchtime": 367.4880000000341, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:35:58.540461Z", "matchtime": 386.04800000003206, "event": "GOAL", "payload": {"team_name": "FAST AND SMART\r", "score_yellow": 2, "score_blue": 5}}
+{"datetime": "2021-05-31T05:36:02.046511Z", "matchtime": 389.05600000003176, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:36:18.080817Z", "matchtime": 407.3600000000297, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T05:36:50.190764Z", "matchtime": 444.60800000002564, "event": "GOAL", "payload": {"team_name": "FAST AND SMART\r", "score_yellow": 2, "score_blue": 6}}
+{"datetime": "2021-05-31T05:36:52.786920Z", "matchtime": 447.6160000000253, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:37:20.975704Z", "matchtime": 480.8320000000216, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T05:38:11.062282Z", "matchtime": 543.7440000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-05-31T05:38:15.230749Z", "matchtime": 549.4400000000155, "event": "GOAL", "payload": {"team_name": "FAST AND SMART\r", "score_yellow": 2, "score_blue": 7}}
+{"datetime": "2021-05-31T05:38:17.448631Z", "matchtime": 552.4480000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-05-31T05:38:54.144948Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 7, "team_name_yellow": "musou japan", "team_name_blue": "FAST AND SMART\r"}}
