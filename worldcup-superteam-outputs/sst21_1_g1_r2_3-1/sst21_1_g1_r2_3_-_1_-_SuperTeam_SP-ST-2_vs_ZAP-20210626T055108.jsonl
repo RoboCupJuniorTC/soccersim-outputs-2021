@@ -1,0 +1,28 @@
+{"datetime": "2021-06-26T05:51:08.956778Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T05:51:08.962433Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "ZAP", "team_name_blue": "SuperTeam SP-ST-2", "match_id": "sst21_1_g1_r2_3", "halftime": 1}}
+{"datetime": "2021-06-26T05:51:13.301597Z", "matchtime": 14.719999999991842, "event": "GOAL", "payload": {"team_name": "SuperTeam SP-ST-2", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-26T05:51:15.477738Z", "matchtime": 17.727999999990175, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T05:51:26.702784Z", "matchtime": 39.67999999997801, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:51:34.750798Z", "matchtime": 56.8319999999685, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:51:53.098201Z", "matchtime": 88.76799999995148, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:52:15.443173Z", "matchtime": 132.09599999996595, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:52:26.371506Z", "matchtime": 152.12799999997264, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:52:35.756747Z", "matchtime": 168.06399999997797, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:52:49.214322Z", "matchtime": 189.31199999998506, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:53:00.935830Z", "matchtime": 206.71999999999088, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:53:25.221712Z", "matchtime": 249.024000000005, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T05:53:41.625798Z", "matchtime": 273.9200000000133, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:53:59.158247Z", "matchtime": 303.8720000000233, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:54:08.591991Z", "matchtime": 318.97600000002836, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:54:24.754143Z", "matchtime": 346.1760000000364, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:54:39.107740Z", "matchtime": 365.6960000000343, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:54:51.984700Z", "matchtime": 385.2160000000322, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:55:03.298135Z", "matchtime": 404.73600000003, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:55:14.213848Z", "matchtime": 420.41600000002825, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:55:27.348701Z", "matchtime": 439.2960000000262, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:55:42.508791Z", "matchtime": 463.8080000000235, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T05:55:45.110220Z", "matchtime": 467.3280000000231, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:56:10.616180Z", "matchtime": 513.152000000018, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T05:56:18.467285Z", "matchtime": 524.2240000000169, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:56:44.796509Z", "matchtime": 568.7680000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T05:57:02.647860Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 1, "team_name_yellow": "ZAP", "team_name_blue": "SuperTeam SP-ST-2"}}

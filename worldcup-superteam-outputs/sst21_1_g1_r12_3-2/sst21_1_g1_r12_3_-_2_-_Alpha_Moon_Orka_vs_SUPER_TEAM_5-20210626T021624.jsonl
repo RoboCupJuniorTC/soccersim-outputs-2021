@@ -1,0 +1,39 @@
+{"datetime": "2021-06-26T02:16:25.097214Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T02:16:25.103360Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 2, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "SUPER TEAM 5", "team_name_blue": "Alpha Moon Orka", "match_id": "sst21_1_g1_r12_3", "halftime": 2}}
+{"datetime": "2021-06-26T02:16:32.517684Z", "matchtime": 23.9999999999867, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:16:33.383598Z", "matchtime": 26.751999999985173, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 3, "score_blue": 0}}
+{"datetime": "2021-06-26T02:16:35.110755Z", "matchtime": 29.759999999983506, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:16:40.501064Z", "matchtime": 42.49599999997645, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:16:47.247177Z", "matchtime": 58.04799999996783, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 4, "score_blue": 0}}
+{"datetime": "2021-06-26T02:16:48.986110Z", "matchtime": 61.05599999996616, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:17:04.303988Z", "matchtime": 88.5119999999514, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:17:04.842291Z", "matchtime": 89.47199999995172, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:17:21.680066Z", "matchtime": 119.0399999999616, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:17:30.763730Z", "matchtime": 134.71999999996683, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:17:44.565035Z", "matchtime": 159.03999999997495, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T02:17:45.221731Z", "matchtime": 160.19199999997534, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:17:55.426753Z", "matchtime": 178.23999999998136, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:18:06.639739Z", "matchtime": 195.3919999999871, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:18:18.849323Z", "matchtime": 216.12799999999402, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:18:31.877143Z", "matchtime": 238.01600000000133, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:18:54.571921Z", "matchtime": 275.3920000000138, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:19:04.224335Z", "matchtime": 292.4800000000195, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 5, "score_blue": 0}}
+{"datetime": "2021-06-26T02:19:05.885660Z", "matchtime": 295.4880000000205, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:19:14.781921Z", "matchtime": 311.10400000002574, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:19:16.408663Z", "matchtime": 313.9840000000267, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:19:28.366696Z", "matchtime": 331.9680000000327, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:19:41.008287Z", "matchtime": 350.336000000036, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:19:47.327723Z", "matchtime": 361.2160000000348, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T02:19:56.950943Z", "matchtime": 378.04800000003297, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 6, "score_blue": 0}}
+{"datetime": "2021-06-26T02:19:58.691201Z", "matchtime": 381.0560000000326, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:20:13.420975Z", "matchtime": 406.84800000002974, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:20:22.726026Z", "matchtime": 422.464000000028, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:20:31.168998Z", "matchtime": 437.44000000002643, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:20:47.473658Z", "matchtime": 464.4480000000234, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:20:53.206289Z", "matchtime": 474.56000000002234, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:21:08.872188Z", "matchtime": 501.69600000001935, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:21:10.386036Z", "matchtime": 504.19200000001905, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:21:27.385664Z", "matchtime": 534.4640000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:21:42.112875Z", "matchtime": 557.3120000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:22:06.187700Z", "matchtime": 598.7200000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:22:06.932598Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 6, "score_blue": 0, "team_name_yellow": "SUPER TEAM 5", "team_name_blue": "Alpha Moon Orka"}}

@@ -1,0 +1,26 @@
+{"datetime": "2021-06-26T00:34:21.177067Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:34:21.182446Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "F1_Formula", "team_name_blue": "SP-ST-1", "match_id": "sst21_1_g1_r11_1", "halftime": 1}}
+{"datetime": "2021-06-26T00:34:36.672691Z", "matchtime": 47.807999999973504, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:34:38.807914Z", "matchtime": 54.01599999997006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T00:34:48.130786Z", "matchtime": 75.9679999999579, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:35:02.292591Z", "matchtime": 110.9759999999589, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T00:35:51.625943Z", "matchtime": 216.44799999999412, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:35:58.843142Z", "matchtime": 231.3599999999991, "event": "GOAL", "payload": {"team_name": "SP-ST-1", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-26T00:36:00.463138Z", "matchtime": 234.3680000000001, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:36:11.415300Z", "matchtime": 253.88800000000663, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-26T00:36:13.290183Z", "matchtime": 256.89600000000763, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T00:36:26.391766Z", "matchtime": 278.912000000015, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:36:55.136785Z", "matchtime": 328.4480000000315, "event": "GOAL", "payload": {"team_name": "SP-ST-1", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-06-26T00:36:57.018549Z", "matchtime": 331.45600000003253, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:37:10.014975Z", "matchtime": 353.6000000000356, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:37:26.489576Z", "matchtime": 381.50400000003253, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T00:37:30.121497Z", "matchtime": 387.5200000000319, "event": "GOAL", "payload": {"team_name": "SP-ST-1", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2021-06-26T00:37:31.989257Z", "matchtime": 390.52800000003157, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:38:07.457599Z", "matchtime": 451.3280000000249, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:38:21.816193Z", "matchtime": 474.94400000002224, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:38:56.585949Z", "matchtime": 533.5680000000158, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 2, "score_blue": 3}}
+{"datetime": "2021-06-26T00:38:58.256082Z", "matchtime": 536.5760000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T00:39:23.681410Z", "matchtime": 580.2880000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T00:39:27.159083Z", "matchtime": 586.1760000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T00:39:27.387892Z", "matchtime": 586.6240000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-26T00:39:35.163713Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 3, "team_name_yellow": "F1_Formula", "team_name_blue": "SP-ST-1"}}

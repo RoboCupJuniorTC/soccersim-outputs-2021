@@ -1,0 +1,28 @@
+{"datetime": "2021-06-26T12:32:57.815506Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T12:32:57.821210Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "SuperTeam SP-ST-2", "team_name_blue": "Alpha Moon Orka", "match_id": "sst21_1_g1_r7_6", "halftime": 1}}
+{"datetime": "2021-06-26T12:33:03.093675Z", "matchtime": 15.935999999991168, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:33:10.601413Z", "matchtime": 35.64799999998024, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:33:25.586295Z", "matchtime": 77.7599999999569, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:33:58.258059Z", "matchtime": 163.3919999999764, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:34:09.254626Z", "matchtime": 189.88799999998525, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:34:11.070924Z", "matchtime": 193.9199999999866, "event": "GOAL", "payload": {"team_name": "Alpha Moon Orka", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-26T12:34:12.598395Z", "matchtime": 196.9279999999876, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T12:34:27.790242Z", "matchtime": 223.99999999999665, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:34:29.091787Z", "matchtime": 226.30399999999742, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-26T12:34:42.200501Z", "matchtime": 248.57600000000485, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T12:34:53.969477Z", "matchtime": 269.0560000000117, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T12:35:14.315224Z", "matchtime": 304.83200000002364, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T12:35:19.447980Z", "matchtime": 313.85600000002665, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-26T12:35:31.741095Z", "matchtime": 332.41600000003285, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:36:13.294171Z", "matchtime": 402.7520000000302, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T12:36:18.440238Z", "matchtime": 411.7760000000292, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-26T12:36:27.184023Z", "matchtime": 426.17600000002767, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:36:31.097478Z", "matchtime": 432.8960000000269, "event": "GOAL", "payload": {"team_name": "SuperTeam SP-ST-2", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-26T12:36:32.997045Z", "matchtime": 435.9040000000266, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T12:36:55.088653Z", "matchtime": 470.40000000002277, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T12:36:58.601533Z", "matchtime": 475.6480000000222, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:37:07.783473Z", "matchtime": 490.2400000000206, "event": "GOAL", "payload": {"team_name": "SuperTeam SP-ST-2", "score_yellow": 2, "score_blue": 1}}
+{"datetime": "2021-06-26T12:37:09.565806Z", "matchtime": 493.2480000000203, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T12:37:28.220343Z", "matchtime": 525.6320000000167, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:38:00.272709Z", "matchtime": 580.8000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T12:38:12.079643Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 1, "team_name_yellow": "SuperTeam SP-ST-2", "team_name_blue": "Alpha Moon Orka"}}

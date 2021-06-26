@@ -1,0 +1,35 @@
+{"datetime": "2021-06-25T23:57:37.488712Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-25T23:57:37.493844Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Alpha Moon Orka", "team_name_blue": "SS-ST-13", "match_id": "sst21_1_g1_r10_4", "halftime": 1}}
+{"datetime": "2021-06-25T23:57:43.356294Z", "matchtime": 21.18399999998826, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:57:51.015700Z", "matchtime": 44.991999999975064, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-25T23:57:51.342400Z", "matchtime": 45.88799999997457, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:57:56.887528Z", "matchtime": 60.03199999996673, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:58:00.023016Z", "matchtime": 67.32799999996269, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-25T23:58:01.216995Z", "matchtime": 70.14399999996112, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:58:12.475998Z", "matchtime": 90.81599999995217, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:58:23.313877Z", "matchtime": 109.43999999995839, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:58:47.409910Z", "matchtime": 151.9999999999726, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:59:01.890213Z", "matchtime": 176.38399999998074, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:59:09.572706Z", "matchtime": 189.88799999998525, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:59:21.055204Z", "matchtime": 210.23999999999205, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:59:30.641803Z", "matchtime": 226.2399999999974, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-25T23:59:54.398104Z", "matchtime": 268.67200000001156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:00:09.932241Z", "matchtime": 296.19200000002076, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:00:28.179934Z", "matchtime": 325.82400000003065, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:00:43.841518Z", "matchtime": 353.08800000003566, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:00:56.888227Z", "matchtime": 377.08800000003305, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:00:59.233669Z", "matchtime": 381.3120000000326, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T00:01:02.483905Z", "matchtime": 387.20000000003193, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:01:11.215922Z", "matchtime": 402.62400000003026, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:01:22.417052Z", "matchtime": 422.784000000028, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T00:01:30.050618Z", "matchtime": 436.3520000000265, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:01:30.379783Z", "matchtime": 436.99200000002645, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-26T00:01:37.995661Z", "matchtime": 450.240000000025, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:01:46.471620Z", "matchtime": 465.2160000000233, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:02:01.141430Z", "matchtime": 491.2000000000205, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:02:09.481221Z", "matchtime": 505.92000000001883, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:02:21.129079Z", "matchtime": 526.5920000000166, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:02:37.915421Z", "matchtime": 555.9680000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:02:46.818136Z", "matchtime": 571.6480000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-26T00:02:51.500979Z", "matchtime": 577.5360000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:03:04.950962Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 0, "team_name_yellow": "Alpha Moon Orka", "team_name_blue": "SS-ST-13"}}

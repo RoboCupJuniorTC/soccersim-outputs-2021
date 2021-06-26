@@ -1,0 +1,42 @@
+{"datetime": "2021-06-26T00:45:48.214158Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T00:45:48.219887Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "SS-ST-3", "team_name_blue": "SUPER TEAM 5", "match_id": "sst21_1_g1_r11_2", "halftime": 1}}
+{"datetime": "2021-06-26T00:45:59.459842Z", "matchtime": 29.759999999983506, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:46:18.625250Z", "matchtime": 86.71999999995194, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T00:46:22.748118Z", "matchtime": 96.8959999999542, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-26T00:46:22.753575Z", "matchtime": 96.95999999995422, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-26T00:46:23.488346Z", "matchtime": 98.43199999995471, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T00:46:23.705661Z", "matchtime": 98.87999999995486, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T00:46:31.711759Z", "matchtime": 113.53599999995976, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:46:36.376913Z", "matchtime": 120.38399999996204, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-26T00:46:36.818915Z", "matchtime": 121.02399999996226, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T00:46:38.343790Z", "matchtime": 123.64799999996313, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:46:50.838188Z", "matchtime": 144.38399999997006, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-26T00:46:52.902945Z", "matchtime": 147.39199999997106, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:47:09.023984Z", "matchtime": 175.16799999998034, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:47:22.016098Z", "matchtime": 197.11999999998767, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:47:26.791020Z", "matchtime": 205.3119999999904, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-26T00:47:27.868725Z", "matchtime": 207.23199999999105, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:47:36.959894Z", "matchtime": 222.9759999999963, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:47:38.467020Z", "matchtime": 225.6639999999972, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-06-26T00:47:40.658551Z", "matchtime": 228.6719999999982, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:47:52.478569Z", "matchtime": 246.27200000000408, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:48:17.974958Z", "matchtime": 288.38400000001815, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:48:27.233695Z", "matchtime": 303.68000000002326, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-26T00:48:28.003802Z", "matchtime": 305.0240000000237, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:48:30.049909Z", "matchtime": 308.5440000000249, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T00:48:42.852555Z", "matchtime": 328.3200000000315, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:48:53.829321Z", "matchtime": 347.5200000000363, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:48:58.492656Z", "matchtime": 355.8400000000354, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-26T00:49:09.603535Z", "matchtime": 374.3360000000333, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:49:24.821945Z", "matchtime": 394.5600000000311, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:49:36.781920Z", "matchtime": 411.9040000000292, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:49:48.000883Z", "matchtime": 428.2880000000274, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:50:05.446558Z", "matchtime": 458.17600000002415, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:50:14.298395Z", "matchtime": 473.6640000000224, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-26T00:50:17.242280Z", "matchtime": 478.4000000000219, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:50:48.374827Z", "matchtime": 532.032000000016, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2021-06-26T00:50:50.339279Z", "matchtime": 535.0400000000157, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:51:03.976071Z", "matchtime": 558.0160000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T00:51:24.596882Z", "matchtime": 591.9360000000156, "event": "GOAL", "payload": {"team_name": "SUPER TEAM 5", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2021-06-26T00:51:26.480591Z", "matchtime": 594.9440000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T00:51:29.615236Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 4, "team_name_yellow": "SS-ST-3", "team_name_blue": "SUPER TEAM 5"}}

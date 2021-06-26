@@ -1,0 +1,48 @@
+{"datetime": "2021-06-26T02:41:10.415279Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T02:41:10.421581Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 11, "score_blue": 1, "total_match_time": 600, "team_name_yellow": " SS-ST-7", "team_name_blue": "SS-ST-10", "match_id": "sst21_1_g1_r12_5", "halftime": 2}}
+{"datetime": "2021-06-26T02:41:12.457727Z", "matchtime": 7.231999999995992, "event": "GOAL", "payload": {"team_name": " SS-ST-7", "score_yellow": 12, "score_blue": 1}}
+{"datetime": "2021-06-26T02:41:13.631847Z", "matchtime": 10.239999999994325, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:41:19.740599Z", "matchtime": 27.199999999984925, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:41:27.717259Z", "matchtime": 47.48799999997368, "event": "GOAL", "payload": {"team_name": " SS-ST-7", "score_yellow": 13, "score_blue": 1}}
+{"datetime": "2021-06-26T02:41:29.021520Z", "matchtime": 50.495999999972014, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:41:36.662594Z", "matchtime": 65.91999999996347, "event": "GOAL", "payload": {"team_name": " SS-ST-7", "score_yellow": 14, "score_blue": 1}}
+{"datetime": "2021-06-26T02:41:38.395092Z", "matchtime": 68.9279999999618, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:41:45.445702Z", "matchtime": 81.15199999995502, "event": "GOAL", "payload": {"team_name": "SS-ST-10", "score_yellow": 14, "score_blue": 2}}
+{"datetime": "2021-06-26T02:41:47.416218Z", "matchtime": 84.15999999995336, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T02:41:57.667423Z", "matchtime": 101.24799999995565, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:42:10.105648Z", "matchtime": 122.0479999999626, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:42:19.908404Z", "matchtime": 137.47199999996775, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:42:31.099315Z", "matchtime": 156.223999999974, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:42:31.194633Z", "matchtime": 156.28799999997403, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:42:42.252374Z", "matchtime": 172.9919999999796, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:42:59.881393Z", "matchtime": 203.58399999998983, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:43:05.787562Z", "matchtime": 214.0159999999933, "event": "GOAL", "payload": {"team_name": " SS-ST-7", "score_yellow": 15, "score_blue": 2}}
+{"datetime": "2021-06-26T02:43:07.567781Z", "matchtime": 217.02399999999432, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:43:20.404182Z", "matchtime": 239.48800000000182, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T02:43:22.916288Z", "matchtime": 243.77600000000325, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T02:43:27.391601Z", "matchtime": 251.3920000000058, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:43:34.713220Z", "matchtime": 261.8880000000093, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:43:40.578799Z", "matchtime": 272.19200000001274, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:43:52.523910Z", "matchtime": 292.9920000000197, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:44:02.486638Z", "matchtime": 309.95200000002535, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T02:44:17.376086Z", "matchtime": 335.936000000034, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:44:30.557818Z", "matchtime": 356.09600000003536, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:44:32.308535Z", "matchtime": 358.91200000003505, "event": "GOAL", "payload": {"team_name": "SS-ST-10", "score_yellow": 15, "score_blue": 3}}
+{"datetime": "2021-06-26T02:44:34.384135Z", "matchtime": 361.92000000003475, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T02:44:44.297395Z", "matchtime": 379.1360000000328, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T02:44:45.189729Z", "matchtime": 380.7360000000326, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:44:58.853718Z", "matchtime": 401.3440000000304, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:45:10.651761Z", "matchtime": 422.0160000000281, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-26T02:45:10.768929Z", "matchtime": 422.2720000000281, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:45:11.306782Z", "matchtime": 423.168000000028, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:45:22.613969Z", "matchtime": 443.0720000000258, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:45:31.250590Z", "matchtime": 457.2160000000242, "event": "GOAL", "payload": {"team_name": "SS-ST-10", "score_yellow": 15, "score_blue": 4}}
+{"datetime": "2021-06-26T02:45:33.117279Z", "matchtime": 460.2240000000239, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-26T02:45:42.544243Z", "matchtime": 476.80000000002207, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:46:12.136681Z", "matchtime": 525.0560000000168, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-26T02:46:14.856517Z", "matchtime": 529.7920000000163, "event": "GOAL", "payload": {"team_name": " SS-ST-7", "score_yellow": 16, "score_blue": 4}}
+{"datetime": "2021-06-26T02:46:16.620836Z", "matchtime": 532.8000000000159, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-26T02:46:26.672721Z", "matchtime": 550.3360000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:46:38.499877Z", "matchtime": 571.0080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-26T02:46:38.604600Z", "matchtime": 571.1360000000155, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-26T02:46:55.054103Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 16, "score_blue": 4, "team_name_yellow": " SS-ST-7", "team_name_blue": "SS-ST-10"}}
